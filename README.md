@@ -1,2 +1,2 @@
-# MvcCereso128
-base de datos=bd_cereso tabla=tbl_prisioneros
+# MVCCARPINTERIA
+base de datos=bd_carpinteria1 tabla=tbl_pedidos
