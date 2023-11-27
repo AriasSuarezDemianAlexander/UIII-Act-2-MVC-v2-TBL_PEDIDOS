@@ -1,2 +1,2 @@
-# UIII-Act-2-MVC-v2-TBL_PEDIDOS
-TBL_PEDIDOS CARPINTERIA
+# MvcCereso128
+base de datos=bd_cereso tabla=tbl_prisioneros
